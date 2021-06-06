@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on LeetCode
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about how to cook
+- 📫 How to reach me: here
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am getting old
