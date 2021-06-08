@@ -32,8 +32,8 @@ I strive to leave a lasting impact on anything and everything I put my effort in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am getting old
 
-![img](https://github-readme-stats-mrdulin.vercel.app/api?username=tonyxiahua&count_private=true&show_icons=true&hide_border=true&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=tonyxiahua&count_private=true&show_icons=true&hide_border=true&show_icons=true&theme=radical" align="right">
 
-![tonyxiahua's Language](https://github-readme-stats.vercel.app/api/top-langs?username=tonyxiahua&show_icons=true&locale=en&layout=compact&hide=html&langs_count=6&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyxiahua&show_icons=true&locale=en&layout=compact&hide=html&langs_count=6&theme=radical&hide_border=true" align="left">
 
 
