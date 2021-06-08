@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Thanks for visiting my page. 
+I am self-motivated and passionate software enginner who is detail-oriented, creative, disciplined, and ready to take on any challenges. 
+Currently I am looking for a Computer Science related jobs. 
+I have high motivation to learning new things, and I have fair skills to help companies to achieve their goals, especially solid computer science skills and deep understanding in popular algorithms and data structures. 
+Also, with strong project experiences and proficient communication skills. 
+I strive to leave a lasting impact on anything and everything I put my effort into.
 
 - 🔭 I’m currently working on LeetCode
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on nothing
+- 👯 I’m looking to collaborate on MC-Fish
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about how to cook
 - 📫 How to reach me: here
