@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=tonyxiahua.visitor-badge)
+
 Thanks for visiting my page. 
 I am self-motivated and passionate software enginner who is detail-oriented, creative, disciplined, and ready to take on any challenges. 
 Currently I am looking for a Computer Science related jobs. 
@@ -30,5 +31,5 @@ I strive to leave a lasting impact on anything and everything I put my effort in
 - 📫 How to reach me: here
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am getting old
-- 
+![tonyxiahua's Language](https://github-readme-stats.vercel.app/api/top-langs?username=tonyxiahua&show_icons=true&locale=en&layout=compact&hide=html&langs_count=6)
 <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=tonyxiahua&count_private=true&show_icons=true&hide_border=true&show_icons=true&theme=radical" align="left">
